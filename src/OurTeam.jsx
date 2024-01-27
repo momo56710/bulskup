@@ -14,7 +14,7 @@ const OurTeam = () => {
         {
             name: 'Metidji Mohamed Amine',
             image: momo,
-            description : 'video editor and graphic designer'
+            description : 'Marketing and HR'
         },
         {
             name: 'Mouadh Haceini',
