@@ -10,7 +10,9 @@ export default function Design() {
     window.scrollTo(0, 0);
   }, []);
   return (
+    
     <Box>
+      <PlansAndPricingBtn/>
       <Hero />
       <OurProjects />
       <Branding />

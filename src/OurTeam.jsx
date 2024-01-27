@@ -9,6 +9,7 @@ import madjid from './assets/team/Abdelmadjid Benimam.jpg'
 import riad from './assets/team/Riad Marmouz.jpg'
 import fares from './assets/team/Fares Slimani.jpg'
 import mouad from './assets/team/Mouadh Haceini.jpg'
+import PlansAndPricingBtn from './comp/PlansAndPricingBtn';
 const OurTeam = () => {
     const team = [
         {
@@ -55,6 +56,7 @@ const OurTeam = () => {
     ]
     return (
         <>
+        <PlansAndPricingBtn/>
             <Heading
                 color={'white'}
                 textAlign={'center'}

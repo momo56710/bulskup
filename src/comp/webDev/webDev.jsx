@@ -9,6 +9,7 @@ export default function WebDev() {
   }, []);
   return (
     <>
+    <PlansAndPricingBtn/>
       <Hero />
       <OurProjects />
       <OurService />

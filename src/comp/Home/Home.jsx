@@ -11,6 +11,8 @@ export default function Home() {
   }, []);
   return (
     <>
+
+      <PlansAndPricingBtn/>
       <Box maxW={'1400px'} m={'auto'}>
         <Hero />
       </Box>
